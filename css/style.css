@@ -153,4 +153,13 @@ header {
   z-index: 1;
 }
 
+#logo {
+  
+}
+
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
+
 
